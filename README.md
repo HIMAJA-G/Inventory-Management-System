@@ -16,6 +16,6 @@ You will learn JSON, NoSQL databases, File Handilng.
 
 My name is Himaja.I'm Currently Pursuing 3rd year B.Tech in SVCE,Tirupati.I'm passionate in learning.I have Tech skills in Python and C.
 
-##Other Useful Links:
+## Other Useful Links:
 
 Linkedin : linkedin.com/in/gudhiti-himaja-1b1aa5216
