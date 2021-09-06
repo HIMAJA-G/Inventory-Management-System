@@ -11,7 +11,6 @@ You will learn JSON, NoSQL databases, File Handilng.
 2. User can make purchases
 3. Record.JSON file contains all the records of purchases
 4. records are atomatically updated after the purchase
-5. 
 
 ## Who am I ?
 
